@@ -1,0 +1,1 @@
+Al crear la carpeta "archivos" no se vieron cambios generados en GitHub Desktop, impidiendome realizar ningun commit
