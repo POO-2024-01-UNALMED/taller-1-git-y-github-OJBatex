@@ -1,0 +1,10 @@
+
+Nombre: Simon David Diaz Rojas
+Edad: 18
+Aspiraciones: Poder comprender el paradigma orientado a objetos para poder avanzar efectivamente con mi proceso academico como estudiante de ingenieria en sistemas
+=======
+Al crear inicialmente la carpeta "archivos", GitHub Desktop no permitio realizar un commit ni reconocio algun tipo de cambio.
+Luego de haber creado el archivo "respuesta.txt" la realizacion de un commit si fue permitida.
+Como este archivo tambien es un .txt, no deberia presentarse problemas al intentar realizar un commit
+
+Es importante tener cuidado con la modificacion de archivos para evitar conflictos entre ellos, que pueden ser ocasionados al intentar modificar un archivo local sin haber descargado una version actualizada del mismo presente en el repositorio. Es importante siempre trabajar con la version mas actualizada disponible
