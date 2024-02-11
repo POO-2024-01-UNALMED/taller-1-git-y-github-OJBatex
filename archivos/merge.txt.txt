@@ -1,0 +1,3 @@
+Nombre: Simon David Diaz Rojas
+Edad: 18
+Aspiraciones: Poder comprender el paradigma orientado a objetos para poder avanzar efectivamente con mi proceso academico como estudiante de ingenieria en sistemas
